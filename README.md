@@ -1,13 +1,22 @@
-### 
 
-<div  align="center">
-
-<h2>Hi there, I'm Fatih👋</h2>
+<h2><i>Hi there, I'm Fatih👋</i></h2>
 
 <p>I started learning with Java at university, then continued with Spring Boot.</p>
 
 <p> Now that I am interested in Android mobile application development, I started to develop myself in this field.</p>
+
   
-<img src="/images/image.jpg" width="400" height="auto" alt="Fatih Computer Engineer" />
+<h3><i>Where to reach me</i></h3>
+
+You can send me a message on <a href="mailto:fatih.yigit.35@gmail.com">fatih.yigit.35@gmail.com</a><br />
+You can follow me on  <a href="https://www.linkedin.com/in/fatihyigit35/">LinkedIn</a><br />
+You can follow me on  <a href="https://www.instagram.com/fatih.yigit.35">Instagram</a>
+
+<h3><i>My Github Stats</i></h3>
   
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=FatihYigit35&card_width=450&show_icons=true&locale=en&theme=chartreuse-dark" alt="Fatih's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FatihYigit35&card_width=450&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" 
+     alt="Fatih's Most Used Languges" />
+  
+

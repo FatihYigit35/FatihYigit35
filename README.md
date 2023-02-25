@@ -1,7 +1,7 @@
 
 <h2><i>Hi there, I'm Fatih👋</i></h2>
 
-<p>I started learning with Java at university, then continued with Spring Boot.</p>
+<p>I started learning Java at university, then continued with Spring Boot.</p>
 
 <p> Now that I am interested in Android mobile application development, I started to develop myself in this field.</p>
 

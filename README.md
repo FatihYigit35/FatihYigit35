@@ -14,7 +14,7 @@ You can follow me on  <a href="https://www.instagram.com/fatih.yigit.35">Instagr
 
 <h3><i>My Github Stats</i></h3>
 <p float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=FatihYigit35&card_width=450&show_icons=true&locale=en&theme=chartreuse-dark" alt="Fatih's GitHub Stats" /> &nbsp; &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FatihYigit35&card_width=450&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" 
+<img src="https://github-readme-stats.vercel.app/api?username=FatihYigit35&card_width=450&show_icons=true&locale=en&theme=chartreuse-dark" alt="Fatih's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FatihYigit35&card_width=450&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" 
      alt="Fatih's Most Used Languges" />
      
 <h3><i>My Android Projects Github Pins</i></h3>

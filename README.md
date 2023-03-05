@@ -21,5 +21,8 @@ You can follow me on  <a href="https://www.instagram.com/fatih.yigit.35">Instagr
      
 <h3><i>My Android Projects Github Pins</i></h3>
      
-[![Contacts-App](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Contacts-App&show_owner=true&theme=chartreuse-dark)](https://github.com/FatihYigit35/Contacts-App) &nbsp; &nbsp; &nbsp; &nbsp; [![Motion-Layout-Application](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Motion-Layout-Application&theme=chartreuse-dark)]([https://github.com/FatihYigit35/Contacts-App](https://github.com/FatihYigit35/Motion-Layout-Application))
+[![Contacts-App](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Contacts-App&theme=chartreuse-dark)](https://github.com/FatihYigit35/Contacts-App) &nbsp; &nbsp; &nbsp; &nbsp; 
+[![Motion-Layout-Application](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Motion-Layout-Application&theme=chartreuse-dark)]([https://github.com/FatihYigit35/Contacts-App](https://github.com/FatihYigit35/Motion-Layout-Application)) &nbsp; &nbsp; &nbsp; &nbsp; 
+[![Drag-Drop-Multi-Object-App](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Drag-Drop-Multi-Object-App&theme=chartreuse-dark)](https://github.com/FatihYigit35/Drag-Drop-Multi-Object-App) &nbsp; &nbsp; &nbsp; &nbsp; 
+[![Simple-2D-Game-Practice](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Simple-2D-Game-Practice&theme=chartreuse-dark)](https://github.com/FatihYigit35/Simple-2D-Game-Practice)
   

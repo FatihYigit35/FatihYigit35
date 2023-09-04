@@ -15,9 +15,9 @@ https://github-readme-stats-fatihyigit35.vercel.app/
 
 <h3><i>My Github Stats</i></h3>
 <p float="left">
-<img src="https://github-readme-stats-fatihyigit35.vercel.app/api?username=FatihYigit35&card_width=450&show_icons=true&locale=en&theme=chartreuse-dark" alt="Fatih's GitHub Stats" />
+<img src="https://github-readme-stats-fatihyigit35.vercel.app/api?username=FatihYigit35&card_width=450&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true" alt="Fatih's GitHub Stats" />
   
-<img src="https://github-readme-stats-fatihyigit35.vercel.app/api/top-langs?username=FatihYigit35&card_width=450&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" 
+<img src="https://github-readme-stats-fatihyigit35.vercel.app/api/top-langs?username=FatihYigit35&card_width=450&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" 
      alt="Fatih's Most Used Languges" />
      
 <h3><i>My Android Projects Github Pins</i></h3>

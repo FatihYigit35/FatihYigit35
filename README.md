@@ -19,9 +19,9 @@ You can follow me on  <a href="https://www.instagram.com/fatih.yigit.35">Instagr
      
 <h3><i>My Android Projects Github Pins</i></h3>
 
-<p>[![Fruits App](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Fruits&theme=chartreuse-dark)](https://github.com/FatihYigit35/Fruits)</p>
-<p>[![Contacts App](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Contacts-App&theme=chartreuse-dark)](https://github.com/FatihYigit35/Contacts-App)</p>
-<p>[![Motion Layout Application](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Motion-Layout-Application&theme=chartreuse-dark)](https://github.com/FatihYigit35/Motion-Layout-Application)</p>
-<p>[![Drag Drop Multi Object App](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Drag-Drop-Multi-Object-App&theme=chartreuse-dark)](https://github.com/FatihYigit35/Drag-Drop-Multi-Object-App) </p>
-<p>[![Simple 2D Game Practice](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Simple-2D-Game-Practice&theme=chartreuse-dark)](https://github.com/FatihYigit35/Simple-2D-Game-Practice)</p>
+[![Fruits App](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Fruits&theme=chartreuse-dark)](https://github.com/FatihYigit35/Fruits)
+[![Contacts App](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Contacts-App&theme=chartreuse-dark)](https://github.com/FatihYigit35/Contacts-App)
+[![Motion Layout Application](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Motion-Layout-Application&theme=chartreuse-dark)](https://github.com/FatihYigit35/Motion-Layout-Application)
+[![Drag Drop Multi Object App](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Drag-Drop-Multi-Object-App&theme=chartreuse-dark)](https://github.com/FatihYigit35/Drag-Drop-Multi-Object-App) 
+[![Simple 2D Game Practice](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Simple-2D-Game-Practice&theme=chartreuse-dark)](https://github.com/FatihYigit35/Simple-2D-Game-Practice)
   

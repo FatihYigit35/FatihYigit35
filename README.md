@@ -1,5 +1,5 @@
 
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06A905&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Fatih+Yigit;I'm+a+Mobile+Application+Developer." alt="Typing SVG" /></a></h1>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06A905&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Fatih+Yigit;I'm+a+Mobile+Application+Developer" alt="Typing SVG" /></a></h1>
 
 <p>I started learning Java at university, then continued with Spring Boot.</p>
 

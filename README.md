@@ -50,6 +50,7 @@
      
 <h3><i>My Android Projects Github Pins</i></h3>
 
+[![Fruits App](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=FreelanceApp&theme=chartreuse-dark)](https://github.com/FatihYigit35/FreelanceApp)
 [![Fruits App](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Fruits&theme=chartreuse-dark)](https://github.com/FatihYigit35/Fruits)
 [![Contacts App](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Contacts-App&theme=chartreuse-dark)](https://github.com/FatihYigit35/Contacts-App)
 [![Motion Layout Application](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Motion-Layout-Application&theme=chartreuse-dark)](https://github.com/FatihYigit35/Motion-Layout-Application)

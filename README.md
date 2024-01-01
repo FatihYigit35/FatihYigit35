@@ -43,10 +43,11 @@
 
 </p>
 
-<h3><i>My Most Used Langugess</i></h3>
+<h3><i>My GitHub Status</i></h3>
 <p float="left">
-<!--<p><img src="https://github-readme-stats-fatihyigit35.vercel.app/api?username=FatihYigit35&card_width=450&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true" alt="Fatih's GitHub Stats" /></p>-->
+<p><img src="https://github-readme-stats-fatihyigit35.vercel.app/api?username=FatihYigit35&card_width=450&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true" alt="Fatih's GitHub Stats" /></p>
 <p><img src="https://github-readme-stats-fatihyigit35.vercel.app/api/top-langs?username=FatihYigit35&card_width=450&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="Fatih's Most Used Languges" /></p>
+
      
 <h3><i>My Android Projects Github Pins</i></h3>
 

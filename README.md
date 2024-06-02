@@ -49,7 +49,11 @@
 <p><img src="https://github-readme-stats-fatihyigit35.vercel.app/api?username=FatihYigit35&card_width=450&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true" alt="My GitHub Stats" /></p>
 <p><img src="https://github-readme-stats-fatihyigit35.vercel.app/api/top-langs?username=FatihYigit35&card_width=450&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="My Most Used Languges" /></p>
 
-
+<br/>
+<h2><i>My Flutter Projects Github Pins</i></23>
+     
+[![Fruits App](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=roll_dice_app&theme=chartreuse-dark)](https://github.com/FatihYigit35/roll_dice_app/) 
+     
 <br/>
 <h2><i>My Android Projects Github Pins</i></23>
      

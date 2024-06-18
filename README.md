@@ -50,13 +50,13 @@
 <p><img src="https://github-readme-stats-fatihyigit35.vercel.app/api/top-langs?username=FatihYigit35&card_width=450&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="My Most Used Languges" /></p>
 
 <br/>
-<h2><i>My Flutter Projects Github Pins</i></23>
+<h2><i>My Flutter Projects Github Pins</i></h2>
      
-[![Random Kpss Questions](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=random_kpss_questions&theme=chartreuse-dark)](https://github.com/FatihYigit35/random_kpss_questions)      
+[![Random Kpss Questions](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=random_kpss_questions&theme=chartreuse-dark)](https://github.com/FatihYigit35/random_kpss_questions)
 [![Fruits App](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=roll_dice_app&theme=chartreuse-dark)](https://github.com/FatihYigit35/roll_dice_app/) 
      
 <br/>
-<h2><i>My Android Projects Github Pins</i></23>
+<h2><i>My Android Projects Github Pins</i></h2>
      
 [![Fruits App](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=FreelanceApp&theme=chartreuse-dark)](https://github.com/FatihYigit35/FreelanceApp)
 [![Fruits App](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=Fruits&theme=chartreuse-dark)](https://github.com/FatihYigit35/Fruits)

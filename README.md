@@ -51,9 +51,10 @@
 
 <br/>
 <h2><i>My Flutter Projects Github Pins</i></h2>
-     
+
+[![Fruits App](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=spending_tracker&theme=chartreuse-dark)](https://github.com/FatihYigit35/spending_tracker) 
 [![Random Kpss Questions](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=random_kpss_questions&theme=chartreuse-dark)](https://github.com/FatihYigit35/random_kpss_questions)
-[![Fruits App](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=roll_dice_app&theme=chartreuse-dark)](https://github.com/FatihYigit35/roll_dice_app/) 
+[![Fruits App](https://github-readme-stats.vercel.app/api/pin/?username=FatihYigit35&repo=roll_dice_app&theme=chartreuse-dark)](https://github.com/FatihYigit35/roll_dice_app) 
      
 <br/>
 <h2><i>My Android Projects Github Pins</i></h2>

@@ -1,0 +1,30 @@
+name: Update used languges assets
+
+on:
+  schedule:
+  - cron: 0 0 * * * # Every day at 00:00
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  update-assets:
+    runs-on: ubuntu-latest
+    steps:
+    # Checkout with custom token for push to protected branch
+    - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
+
+    - name: Download used_languges.svg
+      run: |
+        mkdir -p assets
+        curl 'https://github-readme-stats-e3aipmg2v-fatihyigit35.vercel.app/api/top-langs?username=FatihYigit35&card_width=450&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&cache_seconds=86400' -o assets/used_languages.svg
+
+    - name: Push used_languages.svg
+      run: |
+        git config user.name "fatihyigit35"
+        git config user.email "fatih.yigit.35@gmail.com"
+        git add assets/used_languages.svg
+        git commit -i assets/used_languges.svg -m "Update used languages assets"
+        git push origin

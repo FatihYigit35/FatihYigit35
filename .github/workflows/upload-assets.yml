@@ -26,5 +26,5 @@ jobs:
         git config user.name "fatihyigit35"
         git config user.email "fatih.yigit.35@gmail.com"
         git add assets/stats.svg
-        git commit -i assets/stats.svg -m "[skip ci] Update assets"
+        git commit -i assets/stats.svg -m "Update stats assets"
         git push origin

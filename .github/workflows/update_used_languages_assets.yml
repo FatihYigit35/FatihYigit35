@@ -1,4 +1,4 @@
-name: Update used languges assets
+name: Update used languages assets
 
 on:
   schedule:

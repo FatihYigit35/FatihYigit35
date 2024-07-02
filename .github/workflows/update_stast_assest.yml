@@ -1,4 +1,4 @@
-name: Update stats assets
+name: Update stats and used languages assets
 
 on:
   schedule:
@@ -16,15 +16,18 @@ jobs:
       with:
         token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
 
-    - name: Download stats.svg
+    - name: Download stats.svg and used_languages.svg
       run: |
         mkdir -p assets
         curl 'https://github-readme-stats-e3aipmg2v-fatihyigit35.vercel.app/api?username=FatihYigit35&card_width=450&show_icons=true&locale=en&theme=chartreuse-dark&cache_seconds=86400' -o assets/stats.svg
+        curl 'https://github-readme-stats-e3aipmg2v-fatihyigit35.vercel.app/api/top-langs?username=FatihYigit35&card_width=450&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&cache_seconds=86400' -o assets/used_languages.svg
 
-    - name: Push stats.svg
+    - name: Push stats.svg and used_languages.svg
       run: |
         git config user.name "fatihyigit35"
         git config user.email "fatih.yigit.35@gmail.com"
         git add assets/stats.svg
         git commit -i assets/stats.svg -m "Update stats assets"
+        git add assets/used_languages.svg
+        git commit -i assets/used_languages.svg -m "Update used languages assets"
         git push origin

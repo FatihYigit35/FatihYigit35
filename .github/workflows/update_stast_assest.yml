@@ -4,30 +4,46 @@ on:
   schedule:
   - cron: 0 0 * * * # Every day at 00:00
   push:
-    branches: [main]
+    branches: 
+      -main
   workflow_dispatch:
 
 jobs:
-  update-assets:
+  download-assets:
     runs-on: ubuntu-latest
+    name: Download assets
+
     steps:
-    # Checkout with custom token for push to protected branch
-    - uses: actions/checkout@v3
-      with:
-        token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
+      - name: Download the stats file
+        run: curl 'https://github-readme-stats-e3aipmg2v-fatihyigit35.vercel.app/api?username=FatihYigit35&card_width=450&show_icons=true&locale=en&theme=chartreuse-dark&cache_seconds=86400' -o stats.svg
 
-    - name: Download stats.svg and used_languages.svg
-      run: |
-        mkdir -p assets
-        curl 'https://github-readme-stats-e3aipmg2v-fatihyigit35.vercel.app/api?username=FatihYigit35&card_width=450&show_icons=true&locale=en&theme=chartreuse-dark&cache_seconds=86400' -o assets/stats.svg
-        curl 'https://github-readme-stats-e3aipmg2v-fatihyigit35.vercel.app/api/top-langs?username=FatihYigit35&card_width=450&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&cache_seconds=86400' -o assets/used_languages.svg
+      - name: Download the top languages file
+        run: curl 'https://github-readme-stats-e3aipmg2v-fatihyigit35.vercel.app/api/top-langs?username=FatihYigit35&card_width=450&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&cache_seconds=86400' -o used_languages.svg
 
-    - name: Push stats.svg and used_languages.svg
-      run: |
-        git config user.name "fatihyigit35"
-        git config user.email "fatih.yigit.35@gmail.com"
-        git add assets/stats.svg
-        git commit -i assets/stats.svg -m "Update stats assets"
-        git add assets/used_languages.svg
-        git commit -i assets/used_languages.svg -m "Update used languages assets"
-        git push -u origin main
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: assets
+          path: |
+            stats.svg
+            used_languages.svg
+            
+  push-assets:
+    runs-on: ubuntu-latest
+    name: Push assets
+    needs: [download-assets]
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/download-artifact@v3
+        with:
+          name: assets
+          path: assets
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: "chore(assets): update cached GRS files"
+          branch: main
+          commit_user_name: fatihyigit35
+          commit_user_email: fatih.yigit.35@gmail.com
+          commit_author: fatihyigit35 <fatih.yigit.35@gmail.com>          

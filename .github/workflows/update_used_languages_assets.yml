@@ -27,4 +27,4 @@ jobs:
         git config user.email "fatih.yigit.35@gmail.com"
         git add assets/used_languages.svg
         git commit -i assets/used_languages.svg -m "Update used languages assets"
-        git push origin
+        git push origin main

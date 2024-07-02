@@ -1,4 +1,4 @@
-name: Update assets
+name: Update stats assets
 
 on:
   schedule:

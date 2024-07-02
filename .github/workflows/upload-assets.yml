@@ -1,0 +1,30 @@
+name: Update assets
+
+on:
+  schedule:
+  - cron: 0 0 * * * # Every day at 00:00
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  update-assets:
+    runs-on: ubuntu-latest
+    steps:
+    # Checkout with custom token for push to protected branch
+    - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
+
+    - name: Download stats.svg
+      run: |
+        mkdir -p assets
+        curl 'https://github-readme-stats-e3aipmg2v-fatihyigit35.vercel.app/api?username=FatihYigit35&card_width=450&show_icons=true&locale=en&theme=chartreuse-dark)&cache_seconds=86400' -o assets/stats.svg
+
+    - name: Push stats.svg
+      run: |
+        git config user.name "fatihyigit35"
+        git config user.email "fatih.yigit.35@gmail.com"
+        git add assets/stats.svg
+        git commit -i assets/stats.svg -m "[skip ci] Update assets"
+        git push origin

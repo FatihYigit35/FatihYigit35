@@ -30,4 +30,4 @@ jobs:
         git commit -i assets/stats.svg -m "Update stats assets"
         git add assets/used_languages.svg
         git commit -i assets/used_languages.svg -m "Update used languages assets"
-        git push origin
+        git push origin main

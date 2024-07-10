@@ -1,49 +1,15 @@
-name: Update stats and used languages assets
-
+name: Daily Profile Stats Check
 on:
   schedule:
-  - cron: 0 0 * * * # Every day at 00:00
-  push:
-    branches: 
-      -main
-  workflow_dispatch:
-
+    - cron:  '1 0 * * *'
+    - cron:  '5 0 * * *'
 jobs:
-  download-assets:
+  APICalls:
     runs-on: ubuntu-latest
-    name: Download assets
-
     steps:
-      - name: Download the stats file
-        run: curl 'https://github-readme-stats-e3aipmg2v-fatihyigit35.vercel.app/api?username=FatihYigit35&card_width=450&show_icons=true&locale=en&theme=chartreuse-dark&cache_seconds=86400' -o stats.svg
-
-      - name: Download the top languages file
-        run: curl 'https://github-readme-stats-e3aipmg2v-fatihyigit35.vercel.app/api/top-langs?username=FatihYigit35&card_width=450&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&cache_seconds=86400' -o used_languages.svg
-
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v3
-        with:
-          name: assets
-          path: |
-            stats.svg
-            used_languages.svg
-            
-  push-assets:
-    runs-on: ubuntu-latest
-    name: Push assets
-    needs: [download-assets]
-    steps:
-      - uses: actions/checkout@v3
-      - uses: actions/download-artifact@v3
-        with:
-          name: assets
-          path: assets
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          CUSTOM_GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
-        with:
-          commit_message: "chore(assets): update cached GRS files"
-          branch: main
-          commit_user_name: fatihyigit35
-          commit_user_email: fatih.yigit.35@gmail.com
-          commit_author: fatihyigit35 <fatih.yigit.35@gmail.com>          
+    - name: Check Public Contributions
+      run: |
+        curl -X GET 'https://github-readme-stats-thachlp.vercel.app/api?username=thachlp&hide=stars&show_icons=true&rank_icon=github&show=reviews&custom_title=Public%20Contributions'    
+    - name: Check Most Used Languages
+      run: |     
+        curl -X GET 'https://github-readme-stats-thachlp.vercel.app/api/top-langs/?username=thachlp&layout=compact'

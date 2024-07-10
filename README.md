@@ -47,9 +47,9 @@
 <br/>
 <h2><i>My GitHub Status</i></h2>
 
-![My GitHub Stats](https://github-readme-stats-e3aipmg2v-fatihyigit35.vercel.app/api?username=FatihYigit35&card_width=450&show_icons=true&locale=en&theme=chartreuse-dark)
+[![My GitHub Stats](/assets/stats.svg)](https://github-readme-stats-e3aipmg2v-fatihyigit35.vercel.app/api?username=FatihYigit35&card_width=450&show_icons=true&locale=en&theme=chartreuse-dark)
 
-![My Most Used Languges](https://github-readme-stats-e3aipmg2v-fatihyigit35.vercel.app/api/top-langs?username=FatihYigit35&card_width=450&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+[![My Most Used Languges](/assets/used_languages.svg)](https://github-readme-stats-e3aipmg2v-fatihyigit35.vercel.app/api/top-langs?username=FatihYigit35&card_width=450&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 <br/>
 <h2><i>My Flutter Projects Github Pins</i></h2>

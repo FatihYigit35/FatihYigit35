@@ -48,7 +48,7 @@
 
 <h2><i>My Projects</i></h2>
 <details>
-<summary><h3><i>Flutter Projects</i></h3></summary>
+<summary><h3><i>${\color{lime}Flutter Projects}$</i></h3></summary>
 
 - [Spending Tracker](https://github.com/FatihYigit35/spending_tracker) - We will track our expenses with this application. With this project, I aim to learn new features that I can use in Flutter.
 - [Random Kpss Questions](https://github.com/FatihYigit35/random_kpss_questions) - Flutter is a project I created to improve myself, where I learned about transitions between pages and data transfer.
@@ -56,7 +56,7 @@
 </details>
 
 <details>
-<summary><h3><i>Android Projects</i></h3></summary>
+<summary><h3><i>${\color{lime}Android Projects}$</i></h3></summary>
      
 - [Tatilci](https://github.com/FatihYigit35/Tatilci) - It is a mobile application that helps you plan your holiday easily and effectively. It eliminates tools and fees by connecting vacationers directly to their homes. In this way, users can maintain the best accommodations in their desired locations and report them with transparency.
 - [IsKapisis](https://github.com/FatihYigit35/IsKapisi) - This application aims to bring together service providers and employers on a common platform.

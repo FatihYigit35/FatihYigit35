@@ -48,7 +48,7 @@
 
 <h2><i>My Projects</i></h2>
 <details>
-<summary><h3><i>${\color{lime}Flutter Projects}$</i></h3></summary>
+<summary><h3><i>${\color{Cerulean}Flutter Projects}$</i></h3></summary>
 
 - [Spending Tracker](https://github.com/FatihYigit35/spending_tracker) - We will track our expenses with this application. With this project, I aim to learn new features that I can use in Flutter.
 - [Random Kpss Questions](https://github.com/FatihYigit35/random_kpss_questions) - Flutter is a project I created to improve myself, where I learned about transitions between pages and data transfer.

@@ -50,6 +50,10 @@
 <details>
 <summary><h3><i>${\color{lime}Flutter Projects}$</i></h3></summary>
 
+- [Meals App](https://github.com/FatihYigit35/meals_app) <br/>What I learned with this project;
+     - We created widgets in different files and used the same widget over and over again in the application.
+     - We created variable values ​​that we can use from anywhere in the application with the Riverpod library.
+     - We enriched the visuals by applying animations to the category list on the home page, to the images in the transitions on the meals and meal details pages, and to the favorite button on the meal details pages
 - [Spending Tracker](https://github.com/FatihYigit35/spending_tracker) <br/>We will track our expenses with this application. With this project, I aim to learn new features that I can use in Flutter.
 - [Random Kpss Questions](https://github.com/FatihYigit35/random_kpss_questions) <br/>Flutter is a project I created to improve myself, where I learned about transitions between pages and data transfer.
 - [Roll Dice App](https://github.com/FatihYigit35/roll_dice_app) <br/>My first flutter project.

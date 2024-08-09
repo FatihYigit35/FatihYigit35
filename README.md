@@ -16,28 +16,28 @@
      <table>
           <tr>
                <td align="center">
-                    <a href="https://linkedin.com/in/fatihyigit35" target="blank">
+                    <a href="https://linkedin.com/in/fatihyigit35" target="_blank">
                         <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
                     </a>
                     <br>
                     LinkedIn
                </td>
                <td align="center">
-                    <a href="https://instagram.com/fatih.yigit.35" target="blank">
+                    <a href="https://instagram.com/fatih.yigit.35" target="_blank">
                         <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" />
                     </a>
                     <br>
                     Instagram
                </td>
                <td align="center">
-                    <a href="https://www.hackerrank.com/fatihyigit35" target="blank">
+                    <a href="https://www.hackerrank.com/fatihyigit35" target="_blank">
                         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fatihyigit35" height="40" width="40"/>
                     </a>
                     <br>
                     HackerRank
                </td>
                <td align="center">
-                    <a href="https://stackoverflow.com/users/20585429/bukrek35tr" target="blank">
+                    <a href="https://stackoverflow.com/users/20585429/bukrek35tr" target="_blank">
                         <img src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow"/>
                     </a>
                     <br>

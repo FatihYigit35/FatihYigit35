@@ -41,7 +41,7 @@
                         <img src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow"/>
                     </a>
                     <br>
-                    stackoverflow
+                    Stackoverflow
                </td>
           </tr>    
      </table> 

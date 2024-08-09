@@ -31,7 +31,7 @@
                </td>
                <td align="center">
                     <a href="https://www.hackerrank.com/fatihyigit35" target="_blank">
-                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fatihyigit35" height="40" width="40"/>
+                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fatihyigit35" height="50" width="50"/>
                     </a>
                     <br>
                     HackerRank
@@ -119,7 +119,7 @@
                </td>
                <td align="center">
                     <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=androidstudio" />
+                        <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="50" height="50"/>
                     </a>
                     <br>
                     Realm

@@ -178,6 +178,8 @@
 <details>
 <summary><h3><i>${\color{lime}Flutter Projects}$</i></h3></summary>
 
+- [My Favorite Places](https://github.com/FatihYigit35/my_favorite_places) <br/>With this app I will save my favorite.
+- [Shopping Notes](https://github.com/FatihYigit35/shopping_notes) <br/>With this project, you can create your shopping list and delete the products you purchased from the list.
 - [Meals App](https://github.com/FatihYigit35/meals_app) <br/>What I learned with this project;
      - We created widgets in different files and used the same widget over and over again in the application.
      - We created variable values ​​that we can use from anywhere in the application with the Riverpod library.

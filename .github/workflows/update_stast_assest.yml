@@ -1,7 +1,7 @@
 name: Update stats and used languages assets
 on:
-  schedule:
-  - cron: 0 0 * * * # Every day at 00:00
+  #schedule:
+  #- cron: 0 0 * * * # Every day at 00:00
   push:
     branches: 
       -main

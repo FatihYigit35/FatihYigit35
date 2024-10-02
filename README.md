@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=FatihYigit35&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
 <h1 align="left">
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06A905&random=false&width=410&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Fatih+Yigit;I'm+a+Mobile+Application+Developer" alt="Typing SVG" /></a>
 </h1>
@@ -207,3 +206,4 @@
 
 [![My Most Used Languges](/assets/used_languages.svg)](https://github-readme-stats-e3aipmg2v-fatihyigit35.vercel.app/api/top-langs?username=FatihYigit35&card_width=450&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
+![](https://komarev.com/ghpvc/?username=FatihYigit35&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)

@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Fatih Y&#304;&#286;&#304;T's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits in 2024 : 1564, Total PRs: 205, Total Issues: 18, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 1, Total Commits in 2024 : 1535, Total PRs: 209, Total Issues: 18, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 115.94352193167593;
+        stroke-dashoffset: 121.88584115244262;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >1.6k</text>
+      >1.5k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >205</text>
+      >209</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >7</text>
+      >6</text>
     </g>
   </g>
     </svg>

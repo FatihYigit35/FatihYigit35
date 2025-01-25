@@ -174,7 +174,7 @@
 
 <h2><i>My Projects</i></h2>
 <details>
-<summary><h3><i>${\color{lime}Flutter Projects}$</i></h3></summary>
+<summary><h3><i>${\color{lime}Flutter&hairsp;Projects}$</i></h3></summary>
 
 - [My Favorite Places](https://github.com/FatihYigit35/my_favorite_places) <br/>With this app I will save my favorite.
 - [Shopping Notes](https://github.com/FatihYigit35/shopping_notes) <br/>With this project, you can create your shopping list and delete the products you purchased from the list.
@@ -188,7 +188,7 @@
 </details>
 
 <details>
-<summary><h3><i>${\color{lime}Android Projects}$</i></h3></summary>
+<summary><h3><i>${\color{lime}Android&hairsp;Projects}$</i></h3></summary>
      
 - [Tatilci](https://github.com/FatihYigit35/Tatilci) <br/>It is a mobile application that helps you plan your holiday easily and effectively. It eliminates tools and fees by connecting vacationers directly to their homes. In this way, users can maintain the best accommodations in their desired locations and report them with transparency.
 - [IsKapisis](https://github.com/FatihYigit35/IsKapisi) <br/>This application aims to bring together service providers and employers on a common platform.

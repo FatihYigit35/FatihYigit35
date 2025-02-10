@@ -16,7 +16,7 @@ jobs:
       - name: Download the top languages file
         run: curl 'https://github-readme-stats-swart-six-69.vercel.app/api/top-langs?username=FatihYigit35&card_width=450&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&cache_seconds=86400' -o used_languages.svg
       - name: Upload artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: assets
           path: |
@@ -29,8 +29,8 @@ jobs:
     name: Push assets
     needs: [download-assets]
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/download-artifact@v3
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
         with:
           name: assets
           path: assets

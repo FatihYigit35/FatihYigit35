@@ -192,7 +192,7 @@
 <summary><h3><i>${\color{lime}Android&hairsp;Projects}$</i></h3></summary>
      
 - [Tatilci](https://github.com/FatihYigit35/Tatilci) <br/>It is a mobile application that helps you plan your holiday easily and effectively. It eliminates tools and fees by connecting vacationers directly to their homes. In this way, users can maintain the best accommodations in their desired locations and report them with transparency.
-- [IsKapisis](https://github.com/FatihYigit35/IsKapisi) <br/>This application aims to bring together service providers and employers on a common platform.
+- [IsKapisi](https://github.com/FatihYigit35/IsKapisi) <br/>This application aims to bring together service providers and employers on a common platform.
 - [Fruits App](https://github.com/FatihYigit35/Fruits) <br/>It is my repository where I share the information I gained during the mobile application development process with Kotlin.
 - [Contacts App](https://github.com/FatihYigit35/Contacts-App) <br/>A simple project that I created with the knowledge I gained during the Android mobile development learning process.
 

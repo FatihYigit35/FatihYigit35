@@ -172,10 +172,6 @@
 </p>
 <br>
 
-```diff
-+ Green
-```
-
 <h2><i>My Projects</i></h2>
 <details>
      

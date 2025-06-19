@@ -8,9 +8,9 @@
 
 <p align="left">I saw that Mobile Application Development with Flutter was just for me and I dedicated myself to developing in this field.</p>
 
-- 🌱 I am currently learning frontend: **Flutter, Java, Kotlin**
+- 🌱 I am currently learning frontend with: **Flutter, Java, Kotlin**
   
-- 🌱 I am currently learning backend: **Spring Boot, ASP.NET, SQL**
+- 🌱 I am currently learning backend with: **Spring Boot, ASP.NET, SQL**
   
 - 📫 How to reach me: **fatih.yigit.35@gmail.com**
 <br/>

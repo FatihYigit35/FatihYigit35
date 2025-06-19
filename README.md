@@ -4,7 +4,7 @@
 
 <p align="left">Developing mobile applications is really fun and enjoyable.</p>
 
-<p align="left">First, I started with Natural Android Mobile Application development, then I started learning Flutter to be able to develop for the IOS platform.</p>
+<p align="left">First, I started with Native Android Mobile Application development, then I started learning Flutter to be able to develop for the IOS platform.</p>
 
 <p align="left">I saw that Mobile Application Development with Flutter was just for me and I dedicated myself to developing in this field.</p>
 

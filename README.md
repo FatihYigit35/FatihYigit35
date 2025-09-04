@@ -41,6 +41,14 @@
 - [Contacts App](https://github.com/FatihYigit35/Contacts-App) <br/>A simple project that I created with the knowledge I gained during the Android mobile development learning process.
 
 </details>
+
+<details>
+<summary><h3><i>${Arduino&hairsp;Projects}$</i></h3></summary>
+     
+- [HC-06 Bluetooth Modül Testi](https://github.com/FatihYigit35/HC06-Bluetooth-Modul-Testi) <br/>With this project, the HC-06 module was tested.
+- [ESP32 Modul Testi](https://github.com/FatihYigit35/IsKapisi) <br/>With this project, the ESP32 module was tested.
+
+</details>
 <br>
 
 <h2 align="left">Languages and Tools:</h2>

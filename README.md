@@ -16,9 +16,7 @@
 <br/>
 
 <h2><i>My Projects</i></h2>
-<details>
-     
-<summary><h3><i>${Flutter&hairsp;Projects}$</i></h3></summary>
+<h3><i>Flutter Projects</i></h3>
 
 - [Creating a Turkish Flag](https://github.com/FatihYigit35/TurkBayragiOlusturma) <br/>In this project, we worked on drawing the Turkish Flag using Flutter widgets.
 - [My Favorite Places](https://github.com/FatihYigit35/my_favorite_places) <br/>With this app I will save my favorite.
@@ -30,25 +28,19 @@
 - [Spending Tracker](https://github.com/FatihYigit35/spending_tracker) <br/>We will track our expenses with this application. With this project, I aim to learn new features that I can use in Flutter.
 - [Random Kpss Questions](https://github.com/FatihYigit35/random_kpss_questions) <br/>Flutter is a project I created to improve myself, where I learned about transitions between pages and data transfer.
 - [Roll Dice App](https://github.com/FatihYigit35/roll_dice_app) <br/>My first flutter project.
-</details>
 
-<details>
-<summary><h3><i>${Android&hairsp;Projects}$</i></h3></summary>
+<h3><i>Android Projects</i></h3>
      
 - [Tatilci](https://github.com/FatihYigit35/Tatilci) <br/>It is a mobile application that helps you plan your holiday easily and effectively. It eliminates tools and fees by connecting vacationers directly to their homes. In this way, users can maintain the best accommodations in their desired locations and report them with transparency.
 - [IsKapisi](https://github.com/FatihYigit35/IsKapisi) <br/>This application aims to bring together service providers and employers on a common platform.
 - [Fruits App](https://github.com/FatihYigit35/Fruits) <br/>It is my repository where I share the information I gained during the mobile application development process with Kotlin.
 - [Contacts App](https://github.com/FatihYigit35/Contacts-App) <br/>A simple project that I created with the knowledge I gained during the Android mobile development learning process.
 
-</details>
-
-<details>
-<summary><h3><i>${Arduino&hairsp;Projects}$</i></h3></summary>
+<h3><i>Arduino Projects</i></h3>
      
 - [HC-06 Bluetooth Modül Testi](https://github.com/FatihYigit35/HC06-Bluetooth-Modul-Testi) <br/>With this project, the HC-06 module was tested.
 - [ESP32 Modul Testi](https://github.com/FatihYigit35/IsKapisi) <br/>With this project, the ESP32 module was tested.
 
-</details>
 <br>
 
 <h2 align="left">Languages and Tools:</h2>
